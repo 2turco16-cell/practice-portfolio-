@@ -46,10 +46,10 @@ i:hover {
 }
 
 .link__hover-effect--white:after {
-    background-color: #fff;
+    background-color: #5e1b1b;
 }
 .link__hover-effect--black:after {
-    background-color: #000;
+    background-color: #070000;
 }
 
 .link__hover-effect:hover:after {
